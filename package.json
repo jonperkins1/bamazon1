@@ -13,7 +13,7 @@
     "inquirer": "^3.3.0",
     "install": "^0.13.0",
     "mysql": "^2.17.1",
-    "npm": "^6.12.1"
+    "npm": "^6.14.6"
   },
   "devDependencies": {},
   "repository": {
